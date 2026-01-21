@@ -1,0 +1,4 @@
+customtkinter
+pyperclip
+bcrypt
+cryptography
