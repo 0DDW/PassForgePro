@@ -81,6 +81,10 @@ For more details, review our [Privacy & Security Policy](https://can-deliktas.gi
 ### Step 1: Clone Repository
 ```bash
 git clone https://github.com/can-deliktas/PassForgePro.git
+```
+
+### Switch to Project Directory
+```bash
 cd PassForgePro
 ```
 
@@ -315,6 +319,10 @@ Daha fazla bilgi için [Gizlilik ve Güvenlik Politikamızı](https://can-delikt
 ### Adım 1: Depoyu Klonla
 ```bash
 git clone https://github.com/can-deliktas/PassForgePro.git
+```
+
+### Proje Dizinine Geç
+```bash
 cd PassForgePro
 ```
 
@@ -481,6 +489,7 @@ def secure_wipe(data: bytearray):
 *Forged in the fires of advanced cryptography. Your identity belongs to you.*
 
 </div>
+
 
 
 
