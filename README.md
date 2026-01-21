@@ -75,7 +75,7 @@ For more details, review our [Privacy & Security Policy](https://can-deliktas.gi
 
 ### Prerequisites
 - **Python 3.8+**
-- **Windows 10/11**
+- **Windows 10/11 or Linux**
 - **Administrator privileges** (for system-level operations)
 
 ### Step 1: Clone Repository
@@ -119,11 +119,56 @@ python PassForgePro.py
 <details>
 <summary>🖼️ Click to view screenshots</summary>
 
-- `preview-en/login.png` - Authentication Screen
-- `preview-en/active-vault.png` - Active Vault View
-- `preview-en/generator.png` - Password Generator
-- `preview-en/settings.png` - Settings Panel
-- `preview-en/recycle-bin.png` - Trash Management
+- ![preview-en/login.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/login.png)
+  - **Login Screen**: The authentication screen where the user logs in using the master password.
+
+- ![preview-en/vault-auth.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/vault-auth.png)
+  - **Vault Authentication**: Additional verification step required to access a selected vault.
+
+- ![preview-en/active-vault.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/active-vault.png)
+  - **Active Vault View**: Main interface displaying stored entries, folders, and credentials inside the vault.
+
+- ![preview-en/save-edit.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/save-edit.png)
+  - **Save / Edit Entry**: Screen for creating a new password entry or editing an existing one.
+
+- ![preview-en/copy.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/copy.png)
+  - **Copy Action**: Visual feedback indicating that a username or password has been copied to the clipboard.
+
+- ![preview-en/root-folder-add.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/root-folder-add.png)
+  - **Add Root Folder**: Interface for creating a new top-level folder in the vault.
+
+- ![preview-en/subfolder-add.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/subfolder-add.png)
+  - **Add Subfolder**: Screen for adding a subfolder inside an existing folder.
+
+- ![preview-en/recycle-bin.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/recycle-bin.png)
+  - **Recycle Bin**: Section where deleted entries are listed and can be restored or permanently removed.
+
+- ![preview-en/settings.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/settings.png)
+  - **Settings Panel**: Area for managing application preferences, security options, and themes.
+
+- ![preview-en/generator.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/generator.png)
+  - **Password Generator**: Tool for generating strong and random passwords based on selected criteria.
+
+- ![preview-en/theme1.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/theme1.png)
+  - **Theme 1**: First available visual theme of the application.
+
+- ![preview-en/theme2.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/theme2.png)
+  - **Theme 2**: Alternative theme with a different color palette.
+
+- ![preview-en/theme3.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/theme3.png)
+  - **Theme 3**: Theme featuring different contrast and UI highlights.
+
+- ![preview-en/theme4.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/theme4.png)
+  - **Theme 4**: Dark-focused theme option.
+
+- ![preview-en/theme5.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/theme5.png)
+  - **Theme 5**: Light-colored alternative theme design.
+
+- ![preview-en/theme6.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/theme6.png)
+  - **Theme 6**: Minimal and modern interface theme.
+
+- ![preview-en/theme7.png](https://github.com/can-deliktas/PassForgePro/blob/main/preview-en/theme7.png)
+  - **Theme 7**: Additional theme option with unique accent colors.
 
 </details>
 
@@ -264,7 +309,7 @@ Daha fazla bilgi için [Gizlilik ve Güvenlik Politikamızı](https://can-delikt
 
 ### Ön Koşullar
 - **Python 3.8+**
-- **Windows 10/11**
+- **Windows 10/11 veya Linux**
 - **Yönetici yetkileri**
 
 ### Adım 1: Depoyu Klonla
@@ -298,11 +343,56 @@ python PassForgePro.py
 <details>
 <summary>🖼️ Ekran görüntülerini görüntülemek için tıklayın</summary>
 
-- `önizleme-tr/giriş.png` - Kimlik Doğrulama Ekranı
-- `önizleme-tr/aktif-kasa.png` - Aktif Kasa Görünümü
-- `önizleme-tr/üretec.png` - Şifre Üreteci
-- `önizleme-tr/ayarlar.png` - Ayarlar Paneli
-- `önizleme-tr/geri-donusum.png` - Çöp Kutusu Yönetimi
+- ![önizleme-tr/giriş.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/giriş.png)
+  - **Giriş Ekranı**: Kullanıcının ana şifre ile uygulamaya giriş yaptığı kimlik doğrulama ekranı.
+
+- ![önizleme-tr/kasa-dogrulama.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/kasa-dogrulama.png)
+  - **Kasa Doğrulama**: Seçilen kasaya erişim için ek doğrulama adımının gösterildiği ekran.
+
+- ![önizleme-tr/aktif-kasa.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/aktif-kasa.png)
+  - **Aktif Kasa Görünümü**: Kasa içindeki kayıtların, klasörlerin ve şifrelerin listelendiği ana ekran.
+
+- ![önizleme-tr/kaydet-duzenle.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/kaydet-duzenle.png)
+  - **Kayıt Ekle / Düzenle**: Yeni şifre kaydı oluşturma veya mevcut kaydı güncelleme ekranı.
+
+- ![önizleme-tr/kopyala.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/kopyala.png)
+  - **Kopyalama İşlemi**: Kullanıcı adı veya şifrenin tek tıkla panoya kopyalandığını gösteren bildirim.
+
+- ![önizleme-tr/kök-klasör-ekle.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/kök-klasör-ekle.png)
+  - **Kök Klasör Ekleme**: Ana dizin altında yeni bir klasör oluşturma arayüzü.
+
+- ![önizleme-tr/alt-klasör-ekle.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/alt-klasör-ekle.png)
+  - **Alt Klasör Ekleme**: Mevcut bir klasörün içine alt klasör oluşturma ekranı.
+
+- ![önizleme-tr/geri-donusum.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/geri-donusum.png)
+  - **Geri Dönüşüm Kutusu**: Silinen kayıtların görüntülendiği ve geri alınabildiği bölüm.
+
+- ![önizleme-tr/ayarlar.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/ayarlar.png)
+  - **Ayarlar Paneli**: Güvenlik, tema ve uygulama tercihlerinin yönetildiği ekran.
+
+- ![önizleme-tr/üretec.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/üretec.png)
+  - **Şifre Üreteci**: Belirlenen kriterlere göre güçlü ve rastgele şifre üretme aracı.
+
+- ![önizleme-tr/tema1.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/tema1.png)
+  - **Tema 1**: Uygulamanın birinci görsel tema tasarımı.
+
+- ![önizleme-tr/tema2.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/tema2.png)
+  - **Tema 2**: Alternatif renk paletine sahip ikinci tema.
+
+- ![önizleme-tr/tema3.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/tema3.png)
+  - **Tema 3**: Farklı kontrast ve arayüz vurgularına sahip tema.
+
+- ![önizleme-tr/tema4.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/tema4.png)
+  - **Tema 4**: Koyu ton ağırlıklı tema görünümü.
+
+- ![önizleme-tr/tema5.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/tema5.png)
+  - **Tema 5**: Açık tonlara sahip alternatif tema tasarımı.
+
+- ![önizleme-tr/tema6.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/tema6.png)
+  - **Tema 6**: Modern ve sade arayüz sunan tema.
+
+- ![önizleme-tr/tema7.png](https://github.com/can-deliktas/PassForgePro/blob/main/önizleme-tr/tema7.png)
+  - **Tema 7**: Farklı vurgu renkleriyle sunulan ek tema seçeneği.
 
 </details>
 
@@ -391,6 +481,7 @@ def secure_wipe(data: bytearray):
 *Forged in the fires of advanced cryptography. Your identity belongs to you.*
 
 </div>
+
 
 
 
