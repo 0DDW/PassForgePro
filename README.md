@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=orange)
 
 **[🇬🇧 English](#english) | [🇹🇷 Türkçe](#türkçe)**
 
@@ -390,4 +391,5 @@ def secure_wipe(data: bytearray):
 *Forged in the fires of advanced cryptography. Your identity belongs to you.*
 
 </div>
+
 
