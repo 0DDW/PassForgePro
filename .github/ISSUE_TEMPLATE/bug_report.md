@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "'Bug: [Describe the issue briefly]'"
+title: 'Bug: [Describe the issue briefly]'
 labels: bug
 assignees: can-deliktas
 
